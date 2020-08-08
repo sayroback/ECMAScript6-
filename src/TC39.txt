@@ -1,0 +1,7 @@
+TC39 es un comite que evalua las propuestas para mejorar JS
+Etapas: 
+  0 idea
+  1 propuesta
+  2 borrador
+  3 candidato
+  4 lanzamiento
